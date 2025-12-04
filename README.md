@@ -14,5 +14,3 @@ Application Analyst with an interest in security engineering, currently building
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nelson-awuja&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
