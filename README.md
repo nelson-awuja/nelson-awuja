@@ -1,5 +1,5 @@
 # 💫 About Me:
-Application Analyst with an interest in security engineering, currently building hands-on expertise across the blue team stack.<br>🔭 Currently working on: Building foundations in static analysis and vulnerability scanning<br>👯 Looking to collaborate on: open-source security tooling, home lab projects or anything involving automation<br>🌱 Currently learning: IAC w/ terraform and advanced bash automation
+Application Analyst with an interest in security engineering, currently building hands-on expertise across the blue team stack.<br>🔭 Currently working on: Building static analysis and vulnerability scanning pipelines<br>👯 Looking to collaborate on: open-source security tooling, home lab projects or anything involving automation<br>🌱 Currently learning: IAC w/ terraform and advanced bash automation
 
 
 ## 🌐 Socials:
