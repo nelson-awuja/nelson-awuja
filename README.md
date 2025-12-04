@@ -3,7 +3,7 @@ Application Analyst with an interest in security engineering, currently building
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelsonawuja/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nelsonawuja) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelsonawuja/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nelsonawuja) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/nelson-awuja/)
 
 # 🎓 Certifications:
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-C8202F?style=for-the-badge&logo=comptia&logoColor=white) ![Google Cybersecurity Professional](https://img.shields.io/badge/Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)
