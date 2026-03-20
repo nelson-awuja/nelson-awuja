@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&lines=Problem+Solver;Always+Learning)
 # 💫 About Me:
-Application Analyst with an interest in security engineering, currently building hands-on expertise across the blue team stack.<br>🔭 Currently working on: Building static analysis and vulnerability scanning pipelines<br>👯 Looking to collaborate on: open-source security tooling, home lab projects or anything involving automation
+Application Analyst with an interest in security engineering, currently building hands-on expertise across the blue team stack.
 
 
 ## 🌐 Socials:
